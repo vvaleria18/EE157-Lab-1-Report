@@ -55,12 +55,12 @@ https://user-images.githubusercontent.com/71746051/162668209-0ec0abca-b24c-47ab-
 
 ### Conclusions 
 Based off these observations, we can deduce that in a homopolar motor:
-A thicker wire indicates a higher current capacity and more current equals more torque which decreases speed
-Increasing the number of magnets increases the magnetic field which increases the motor speed
-An imbalance in the center of gravity of the wire frame introduces more friction at the points where the wire ends hang from resulting in a halt in rotations (often also pulling the top off the positive terminal of the battery) 
-The greater the distance between the wire and the battery (its center of rotation) the slower the speed of the motor due to its higher inertia (resistance to motion)
-Air drag presents a significant resistance to speed in such a low power motor
-The motor becomes hot after continuous operation 
+- A thicker wire indicates a higher current capacity and more current equals more torque which decreases speed
+- Increasing the number of magnets increases the magnetic field which increases the motor speed
+- An imbalance in the center of gravity of the wire frame introduces more friction at the points where the wire ends hang from resulting in a halt in rotations (often also pulling the top off the positive terminal of the battery) 
+- The greater the distance between the wire and the battery (its center of rotation) the slower the speed of the motor due to its higher inertia (resistance to motion)
+- Air drag presents a significant resistance to speed in such a low power motor
+- The motor becomes hot after continuous operation 
 
 
  
